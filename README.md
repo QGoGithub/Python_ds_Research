@@ -9,8 +9,8 @@ A repository of Python based code for:
         - identifying risk weighted market opportunities
            - identifying and applying statistically robust strategies
                - backtesting trading strategies and performance analytics 
-                - portfolio allocation and optimisation
-                   - applying risk and performance management metrics  
+                  - portfolio allocation and optimisation
+                     - applying risk and performance management metrics  
                   
   
         
