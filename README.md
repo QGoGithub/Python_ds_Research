@@ -13,5 +13,7 @@ A repository of Python based code for:
                      - applying risk and performance management metrics  
                   
   
-  1. Portfolio Allocation - Get yahoo data, sort, analyse and allocate portfolio by quadratic optimisation.
+  Portfolio Allocation - Get yahoo data, sort, analyse and allocate portfolio by quadratic optimisation.
+  Portfolio Optimisation - Target return and Target Variance
+  Time Series Analysis
         
