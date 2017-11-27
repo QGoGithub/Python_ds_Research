@@ -14,6 +14,8 @@ A repository of Python based code for:
                   
   
   Portfolio Allocation - Get yahoo data, sort, analyse and allocate portfolio by quadratic optimisation.
+  
   Portfolio Optimisation - Target return and Target Variance
+  
   Time Series Analysis
         
