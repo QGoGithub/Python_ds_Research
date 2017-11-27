@@ -19,3 +19,4 @@ A repository of Python based code for:
   
   Time Series Analysis
         
+LSTM stock price forecasting and prediction
